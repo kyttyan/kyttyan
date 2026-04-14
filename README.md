@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working as a Senior Software Engineer<br>👯 I’m looking to work in the Financial field and startups<br>🌱 I’m currently learning Angular and React<br>⚡ Cars enthusiasts and RC lover (Cars, Trucks, Airplanes, Helicopters)
+🔭 I'm working as a Staff Software Engineer<br>👯 I’m looking to work on startups<br>🌱 I’m currently learning AI skills and AI Driven Development<br>⚡ Cars enthusiast and RC lover (Cars, Trucks, Airplanes, Helicopters)
 
 
 ## 🌐 Socials:
